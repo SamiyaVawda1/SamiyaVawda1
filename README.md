@@ -4,7 +4,7 @@
 
 I'm a graduate/junior Software Developer with experience building **full-stack and mobile applications** using **C#, ASP.NET Core, Azure and Kotlin**. I believe in clean back-end systems, scalable cloud architecture and products that have a real-world impact.
 
-I’ve delivered **cloud-hosted webites and apps that utilize RESTful APIs and payment integrations** used by real users and organisations — always with a focus on reliability, maintainability, and impact.
+I’ve delivered **cloud-hosted webites and apps that utilize RESTful APIs and payment integrations** used by real users and organisations with a focus on reliability, maintainability and impact.
 
 ---
 
