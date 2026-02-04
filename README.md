@@ -75,3 +75,5 @@ I’m always curious, willing to learn and excited to keep growing as a develope
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/samiya-vawda](https://www.linkedin.com/in/samiya-vawda)
 * 📧 Email: [samiyavawda@gmail.com](mailto:samiyavawda@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiyaVawda1)](https://github.com/anuraghazra/github-readme-stats)
