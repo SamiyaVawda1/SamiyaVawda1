@@ -65,7 +65,7 @@ Developed and published a Roblox game played by **54,000+ users worldwide**.
 
 ## About Me 🌿
 
-Besides coding, i love the outdoors, spending time with friends, playing my guitar or watching films. I love building software with intention and practicality.
+Besides coding, I love the outdoors, spending time with friends, playing my guitar or watching films. I love building software with intention and practicality.
 
 I’m always curious, willing to learn and excited to keep growing as a developer while working on projects that genuinely help people.
 
