@@ -1,4 +1,4 @@
-# Hey there! I'm Samiya
+# Hey there!
 
 ## Graduate/Junior Software Developer 👩‍💻
 
