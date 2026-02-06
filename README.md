@@ -6,6 +6,12 @@ I'm a graduate/junior Software Developer with experience building **full-stack a
 
 I’ve delivered **cloud-hosted webites and apps that utilize RESTful APIs and payment integrations** used by real users and organisations with a focus on reliability, maintainability and impact.
 
+## My website portfolio 
+https://v0-samiyavawda.vercel.app/
+
+## My Introduction video
+https://youtube.com/shorts/MUmB3Us8Y80
+
 ## Tech Stack </>
 
 **Languages:** C#, Java, HTML, CSS, JavaScript, SQL, Lua, Kotlin
